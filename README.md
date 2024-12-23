@@ -1,4 +1,4 @@
 CREATE VPROFILE PROJECT
 ------------------------
 
-Create flow stack
+Deploy Microservice Project using docker-compose.yaml
